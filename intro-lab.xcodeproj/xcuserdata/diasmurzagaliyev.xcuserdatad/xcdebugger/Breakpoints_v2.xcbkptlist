@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "469AC1DC-ADA1-44C5-BAEB-7BD3D91B93E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "intro-lab/Views/NewsCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "NewsCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - f5e92f3a2ceabed6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.numberOfVews.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - a20ab59cb2aadb02"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.numberOfVews.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - 68d674c9448e9501"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.numberOfVews.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - a66a9104c884b67f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.numberOfVews.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - 1a89351cde4180ce"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; intro_lab.NewsCell"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "107B8333-E222-480D-A5D2-FDAFE54772B4 - f1231fd18990720b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "intro_lab.NewsCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;intro_lab.NewsCell&gt;"
+                  moduleName = "intro-lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasmurzagaliyev/Work/intro-lab-murrdis/intro-lab/intro-lab/Views/NewsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
